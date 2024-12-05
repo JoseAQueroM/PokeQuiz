@@ -74,6 +74,7 @@ export default {
 .btn-Options:hover {
   background: white;
   color: black;
+  transform: scale(1.15);
 }
 .pokemon-Img {
   max-height: 150px;
